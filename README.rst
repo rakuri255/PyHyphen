@@ -1,17 +1,18 @@
 =================================
-PyHyphen - hyphenation for Python
+PyHyphen-Reloaded - hyphenation for Python
 =================================
 
-(c) 2008-2021 PyHyphen developers
+Reloaded - INFO!
+=============
 
-Contact: fhaxbox66@gmail.com
+This repro is a fork of the original -> https://github.com/dr-leo/PyHyphen
 
-Project home: https://github.com/dr-leo/PyHyphen
+This repro fixes the issue with downloading the dictionary files.
 
-Mailing list: https://groups.google.com/group/pyhyphen
-
+Now it uses the LibreOffice's dictionaries repository on GitHub.
 
 .. contents::
+
 
 0. Quickstart
 =============

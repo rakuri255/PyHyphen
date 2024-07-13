@@ -1,5 +1,5 @@
 =================================
-PyHyphen - hyphenation for Python
+PyHyphen-Reloaded - hyphenation for Python
 =================================
 
 (c) 2008-2021 PyHyphen developers

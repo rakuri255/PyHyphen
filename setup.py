@@ -21,7 +21,7 @@ def is_requirement(line):
 
 
 setup(
-    name="PyHyphen",
+    name="PyHyphen-Reloaded",
     author="Dr. Leo & Regis Behmo & rakuri255",
     author_email="fhaxbox66@googlemail.com",
     url="https://github.com/rakuri255/PyHyphen-Reloaded",

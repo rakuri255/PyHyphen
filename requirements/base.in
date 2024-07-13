@@ -1,5 +1,5 @@
 wheel >= 0.43.0
-setuptools >= 52.0
-appdirs >= 1.4.0
-requests >= 2.25
+setuptools >= 70.3.0
+appdirs >= 1.4.4
+requests >= 2.32.3
 

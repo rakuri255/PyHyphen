@@ -16,7 +16,7 @@ __all__ = ['install', 'is_installed', 'uninstall', 'list_installed']
 DEFAULT_DICT_PATH = appdirs.user_data_dir("pyhyphen", appauthor=False)
 
 # Where PyHyphen tries to retrieve dictionaries for download
-DEFAULT_REPOSITORY = 'https://cgit.freedesktop.org/libreoffice/dictionaries/plain/'
+DEFAULT_REPOSITORY = 'https://github.com/LibreOffice/dictionaries/tree/master/'
 
 # Incomplete list of languages for which there are dictionaries in the 
 # default repository.

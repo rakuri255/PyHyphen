@@ -2,7 +2,7 @@
 Changelog
 =========
 
-Version 4.0.4 (2024-07-13)
+Version 4.0.5 (2024-07-13)
 ==========================
 
 * fix download URL for dictionaries to work with LibreOffice's github repository

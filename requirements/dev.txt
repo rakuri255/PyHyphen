@@ -10,31 +10,31 @@ certifi==2024.7.4
     # via
     #   -r requirements/base.txt
     #   requests
-charset-normalizer==2.0.7
+charset-normalizer==3.3.2
     # via
     #   -r requirements/base.txt
     #   requests
-click==8.0.3
+click==8.1.7
     # via pip-tools
-idna==3.3
+idna==3.7
     # via
     #   -r requirements/base.txt
     #   requests
-importlib-metadata==4.8.1
+importlib-metadata==8.0.0
     # via
     #   click
     #   pep517
-pep517==0.12.0
+pep517==0.13.1
     # via pip-tools
-pip-tools==6.4.0
+pip-tools==7.4.1
     # via -r requirements/dev.in
-requests==2.26.0
+requests==2.32.3
     # via -r requirements/base.txt
-tomli==1.2.1
+tomli==2.0.1
     # via pep517
-typing-extensions==3.10.0.2
+typing-extensions==4.12.2
     # via importlib-metadata
-urllib3==1.26.7
+urllib3==2.2.2
     # via
     #   -r requirements/base.txt
     #   requests
@@ -42,7 +42,7 @@ wheel==0.43.0
     # via
     #   -r requirements/base.txt
     #   pip-tools
-zipp==3.6.0
+zipp==3.19.2
     # via
     #   importlib-metadata
     #   pep517

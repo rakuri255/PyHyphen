@@ -2,6 +2,11 @@
 Changelog
 =========
 
+Version 4.0.6 (2024-07-27)
+==========================
+
+* fix download with some locals or language keywords
+
 Version 4.0.5 (2024-07-13)
 ==========================
 
